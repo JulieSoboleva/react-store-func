@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r43lf4ia8kgk9nqr?svg=true)](https://ci.appveyor.com/project/juliesoboleva/react-store-func)
+
+[Ссылка на Github Pages](https://juliesoboleva.github.io/react-store-func/)
+
 Страница интернет-магазина
 ===
 
